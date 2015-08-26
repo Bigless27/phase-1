@@ -1,1 +1,1 @@
-![Site Map](/imgs/design_reflection.png)
+![Site Map](/imgs/design_reflection.jpg)
